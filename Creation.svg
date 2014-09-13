@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
@@ -13,9 +14,8 @@
    height="2303"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.44.1"
+   inkscape:version="0.48.4 r9939"
    version="1.0"
-   sodipodi:docbase="/home/dylan/src/exalted/map"
    sodipodi:docname="Creation.svg"
    inkscape:export-filename="/home/dylan/src/exalted/map/Creation.png"
    inkscape:export-xdpi="90"
@@ -55,19 +55,21 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4996556"
-     inkscape:cx="1748.339"
-     inkscape:cy="1618.7266"
+     inkscape:zoom="0.2835432"
+     inkscape:cx="1920"
+     inkscape:cy="1151.5"
      inkscape:document-units="px"
-     inkscape:current-layer="boundaries"
+     inkscape:current-layer="svg2"
      width="3840px"
      height="2303px"
-     inkscape:window-width="1104"
-     inkscape:window-height="971"
-     inkscape:window-x="0"
-     inkscape:window-y="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="842"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     showgrid="false"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -95,11 +97,11 @@
          sodipodi:cy="1086.2434"
          sodipodi:rx="2.9831607"
          sodipodi:ry="2.9831607"
-         d="M 3160.2859 1086.2434 A 2.9831607 2.9831607 0 1 1  3154.3196,1086.2434 A 2.9831607 2.9831607 0 1 1  3160.2859 1086.2434 z"
+         d="m 3160.2859,1086.2434 c 0,1.6476 -1.3356,2.9832 -2.9832,2.9832 -1.6475,0 -2.9831,-1.3356 -2.9831,-2.9832 0,-1.6475 1.3356,-2.9832 2.9831,-2.9832 1.6476,0 2.9832,1.3357 2.9832,2.9832 z"
          transform="matrix(1.435478,0,0,1.435478,-4394.792,-1484.242)" />
       <path
          transform="matrix(1.004834,0,0,1.004834,-3035.119,-1016.458)"
-         d="M 3160.2859 1086.2434 A 2.9831607 2.9831607 0 1 1  3154.3196,1086.2434 A 2.9831607 2.9831607 0 1 1  3160.2859 1086.2434 z"
+         d="m 3160.2859,1086.2434 c 0,1.6476 -1.3356,2.9832 -2.9832,2.9832 -1.6475,0 -2.9831,-1.3356 -2.9831,-2.9832 0,-1.6475 1.3356,-2.9832 2.9831,-2.9832 1.6476,0 2.9832,1.3357 2.9832,2.9832 z"
          sodipodi:ry="2.9831607"
          sodipodi:rx="2.9831607"
          sodipodi:cy="1086.2434"
@@ -140,11 +142,11 @@
          sodipodi:cy="1086.2434"
          sodipodi:rx="2.9831607"
          sodipodi:ry="2.9831607"
-         d="M 3160.2859 1086.2434 A 2.9831607 2.9831607 0 1 1  3154.3196,1086.2434 A 2.9831607 2.9831607 0 1 1  3160.2859 1086.2434 z"
+         d="m 3160.2859,1086.2434 c 0,1.6476 -1.3356,2.9832 -2.9832,2.9832 -1.6475,0 -2.9831,-1.3356 -2.9831,-2.9832 0,-1.6475 1.3356,-2.9832 2.9831,-2.9832 1.6476,0 2.9832,1.3357 2.9832,2.9832 z"
          transform="matrix(1.004834,0,0,1.004834,-3035.668,-1003.426)" />
       <path
          transform="matrix(1.42526,0,0,1.42526,-4363.08,-1460.111)"
-         d="M 3160.2859 1086.2434 A 2.9831607 2.9831607 0 1 1  3154.3196,1086.2434 A 2.9831607 2.9831607 0 1 1  3160.2859 1086.2434 z"
+         d="m 3160.2859,1086.2434 c 0,1.6476 -1.3356,2.9832 -2.9832,2.9832 -1.6475,0 -2.9831,-1.3356 -2.9831,-2.9832 0,-1.6475 1.3356,-2.9832 2.9831,-2.9832 1.6476,0 2.9832,1.3357 2.9832,2.9832 z"
          sodipodi:ry="2.9831607"
          sodipodi:rx="2.9831607"
          sodipodi:cy="1086.2434"
@@ -160,7 +162,7 @@
          sodipodi:cy="1086.2434"
          sodipodi:rx="2.9831607"
          sodipodi:ry="2.9831607"
-         d="M 3160.2859 1086.2434 A 2.9831607 2.9831607 0 1 1  3154.3196,1086.2434 A 2.9831607 2.9831607 0 1 1  3160.2859 1086.2434 z"
+         d="m 3160.2859,1086.2434 c 0,1.6476 -1.3356,2.9832 -2.9832,2.9832 -1.6475,0 -2.9831,-1.3356 -2.9831,-2.9832 0,-1.6475 1.3356,-2.9832 2.9831,-2.9832 1.6476,0 2.9832,1.3357 2.9832,2.9832 z"
          transform="matrix(1.741984,0,0,1.741984,-5363.073,-1804.15)" />
     </g>
     <path
@@ -11526,20 +11528,5 @@
        height="2302.093"
        x="0.52128571"
        y="0.44119501" />
-  </g>
-  <g
-     inkscape:label="Bitmap Tracing"
-     inkscape:groupmode="layer"
-     id="bitmap"
-     style="opacity:0.25;display:none"
-     sodipodi:insensitive="true">
-    <image
-       y="0"
-       x="0"
-       id="image1951"
-       height="2303"
-       width="3840"
-       sodipodi:absref="/home/dylan/src/rpg/exalted/Creation_Map_v7.1a.jpg"
-       xlink:href="Creation_Map_v7.1c.jpg" />
   </g>
 </svg>
